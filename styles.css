@@ -114,8 +114,9 @@
       .fullname {
         font-size: 150%;
     }
-      .container {
-        max-width: 50%;
+      #container {
+        margin: auto;
+        max-width: 80%;
     }
   }
   
